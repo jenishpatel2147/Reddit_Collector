@@ -4,4 +4,4 @@
 
 - Designed an intuitive user interface leveraging HTML, JavaScript and React that allowed for the sub-reddits data to be displayed onto a locally hosted website
 
-![alt text](https://github.com/jenishpatel2147/Reddit_Collector/site.png?raw=true)
+![alt text](https://github.com/jenishpatel2147/Reddit_Collector/blob/master/site.png?raw=true)
