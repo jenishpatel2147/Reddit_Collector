@@ -1,5 +1,4 @@
 # Reddit_Collector
-Collecting trending reddit posts from various university sub-reddits
 
 - Collected the trending reddit posts from various university sub-reddits with the use of Reddit API, and creating the back end server that collects data using Python and Flask.
 
